@@ -21,3 +21,4 @@ wp-config.php
 wp-content/uploads
 error_log
 wp-admin/error_log
+wp-content/endurance-page-cache
