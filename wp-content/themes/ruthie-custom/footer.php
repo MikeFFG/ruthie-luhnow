@@ -33,7 +33,7 @@
 			
 			<div class="site-footer-bottom-bar-left">
 
-             	<?php printf( __( 'Theme by %1$s', 'panoramic' ), '<a href="http://www.outtheboxthemes.com">Out the Box</a>' ); ?> 
+             	&copy 2016, Soviet Space Dog, LLC
                 
 			</div>
 	        
