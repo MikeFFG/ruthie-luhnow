@@ -2,3 +2,20 @@
 .idea/*
 .idea/deployment.xml
 cgi-bin/
+.env
+.idea
+.vagrant
+/cache
+/db
+/doc
+/log
+node_modules
+vendor
+docs
+wordpress/dbbackups/*.sql
+wordpress/dbbackups/*.sql.gz
+.htaccess
+wp-config.php
+
+# WordPress
+wp-content/uploads
