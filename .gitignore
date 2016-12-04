@@ -19,3 +19,5 @@ wp-config.php
 
 # WordPress
 wp-content/uploads
+error_log
+wp-admin/error_log
