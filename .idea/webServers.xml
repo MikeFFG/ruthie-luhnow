@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="82dcb8e1-1a50-4958-a1bc-0dfef31496f3" name="Wordpress-remote" url="http://ftp.ruthieluhnow.com">
-        <fileTransfer host="ftp.ruthieluhnow.com" port="21">
+        <fileTransfer host="ftp.ruthieluhnow.com" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
