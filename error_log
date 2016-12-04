@@ -1,2 +1,0 @@
-1479779036: /home1/ruthielu/public_html/ssv3_payload_extractor-9SPVqTNzK6.php startup
-[03-Dec-2016 11:46:58 America/Denver] PHP Warning:  copy(/tmp/wp-cli-cacert.pem): failed to open stream: Permission denied in phar:///usr/local/bin/wp/php/utils.php on line 27
