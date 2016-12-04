@@ -1,0 +1,4 @@
+.idea
+.idea/*
+.idea/deployment.xml
+cgi-bin/
