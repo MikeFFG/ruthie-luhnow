@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="82dcb8e1-1a50-4958-a1bc-0dfef31496f3" name="Wordpress-remote" url="http://ftp.ruthieluhnow.com">
+        <fileTransfer host="ftp.ruthieluhnow.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
