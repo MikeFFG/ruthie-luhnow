@@ -969,11 +969,11 @@ class WPDB_Admin {
                             <form action="" method="post">
                             <?php  wp_nonce_field('wp-database-backup'); ?>
                                 <div class="input-group">
-                                    <span class="input-group-addon" id="sizing-addon2">Minimum Local Backups</span>
-                                    <input type="number" name="wp_local_db_backup_count" value="<?php echo $wp_local_db_backup_count ?>" class="form-control" placeholder="Minimum Local Backups" aria-describedby="sizing-addon2">
+                                    <span class="input-group-addon" id="sizing-addon2">Maximum Local Backups</span>
+                                    <input type="number" name="wp_local_db_backup_count" value="<?php echo $wp_local_db_backup_count ?>" class="form-control" placeholder="Maximum Local Backups" aria-describedby="sizing-addon2">
 
                                 </div>
-                                <div class="alert alert-default" role="alert"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> The minimum number of Local Database Backups that should be kept, regardless of their size.</br>Leave blank for keep unlimited database backups.</div>
+                                <div class="alert alert-default" role="alert"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> The maximum number of Local Database Backups that should be kept, regardless of their size.</br>Leave blank for keep unlimited database backups.</div>
                                 <hr>
                                 <div class="input-group">
                                     <input type="checkbox" <?php echo $checked ?> name="wp_db_log"> Enable Log.

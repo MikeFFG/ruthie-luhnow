@@ -12,6 +12,9 @@ Create & Restore Database Backup easily on single click. Manual or automated bac
 
 == Description ==
 
+= Pro Version =
+* http://www.wpseeds.com/product/wp-all-backup/
+
 WP Database Backup plugin helps you to create Database Backup and Restore Database Backup easily on single click.Manual or Automated Database Backups And also store database backup on safe place- Dropbox,FTP,Email,Google drive, Amazon S3
 
 = Features =
@@ -274,6 +277,10 @@ WP Database Backup plugin helps you to Restore Database Backup easily on single 
 * 21-10-2016
 * Fixed CSRF vulnerabilities issue (suggestion by Tristan)
 
+= 4.3.7 = 
+* 06-12-2016
+* Changed label Minimum Local Backups to Maximum Local Backups in Setting Tab
+
 == Frequently Asked Questions ==
 
  Q-How to  create database Backup?
@@ -320,8 +327,8 @@ Also Please make sure that you have write permission to Backup folder and also c
   
 == Upgrade Notice ==
 
-=4.3.6= 
-* Fixed CSRF vulnerabilities issue
+=4.3.7= 
+* Changed label Minimum Local Backups to Maximum Local Backups in Setting Tab
 
 == Official Site ==
 * http://www.wpseeds.com/documentation/docs/wp-database-backup
