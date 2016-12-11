@@ -473,6 +473,7 @@ a:active {
 }
 .main-navigation.translucent {
 	position: absolute;
+	bottom: 0px;
 	z-index: 99999;
 }
 
@@ -483,6 +484,10 @@ a:active {
 	max-width: 1140px;
 	margin: 0 auto;
 	padding: 0 22px;
+	position: relative;
+}
+
+#masthead {
 	position: relative;
 }
 
@@ -979,10 +984,17 @@ p.centered {
 	font-weight: 300;
 }
 
+.new-header-image {
+	position: relative;
+	width: 100%;
+	margin: 0 0 20px;
+}
+
 .header-image {
     position: relative;
     width: 100%;
     margin: 0 0 20px;
+	height: 285px;
 }
 .header-image.loading { 
     overflow: hidden;
