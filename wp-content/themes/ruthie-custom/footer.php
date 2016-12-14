@@ -33,7 +33,7 @@
 			
 			<div class="site-footer-bottom-bar-left">
 
-             	&copy 2017, Ruthie Luhnow
+             	&copy 2017 Ruthie Luhnow
                 
 			</div>
 	        
