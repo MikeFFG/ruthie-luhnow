@@ -33,7 +33,7 @@
 			
 			<div class="site-footer-bottom-bar-left">
 
-             	&copy 2016, Soviet Space Dog, LLC
+             	&copy 2017, Ruthie Luhnow
                 
 			</div>
 	        
